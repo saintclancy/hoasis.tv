@@ -1,0 +1,22 @@
+# Maven / Java
+target/
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.env
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
